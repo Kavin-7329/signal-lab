@@ -30,3 +30,5 @@ FIR design with Kaiser or Parks-McClellan, deploy free on Streamlit Community Cl
 ![SignalLab screenshot](screenshot.png)
 
 [Full project report (PDF)](SignalLab_README.pdf)
+
+[Try the live app](https://signal-lab007.streamlit.app)

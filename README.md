@@ -1,4 +1,7 @@
 # SignalLab: digital signal processing toolkit
+   ![SignalLab screenshot](screenshot.png)
+
+   [Full project report (PDF)](SignalLab_README.pdf)
 
 Generate or upload audio, add noise, design FIR/IIR filters and see the result.
 
@@ -23,3 +26,7 @@ Generate or upload audio, add noise, design FIR/IIR filters and see the result.
 ## Ideas to extend
 Pole-zero plot, real-time microphone input, ECG/EEG denoising demo, adaptive (LMS) filter,
 FIR design with Kaiser or Parks-McClellan, deploy free on Streamlit Community Cloud.
+
+![SignalLab screenshot](screenshot.png)
+
+[Full project report (PDF)](SignalLab_README.pdf)
